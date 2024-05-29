@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🤵🏻 About me
-I am a machine learning master with research interests in Graph Neural Networks. I am now from School of Data Science and Engineering in East China Normal University, where I am very fortunate to be advised by professor Lixiang in GAMA LAB.My research interests include topics in machine learning and data mining. Most recently, I am interested in the following topics:
+I am a machine learning master with research interests in Graph Neural Networks. I am now from School of Data Science and Engineering in East China Normal University, where I am very fortunate to be advised by professor Lixiang in PLANING LAB.My research interests include topics in machine learning and data mining. Most recently, I am interested in the following topics:
 - Graph Neural Networks.
 - Machine Learning.
 - Data Mining.
