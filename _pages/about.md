@@ -24,7 +24,7 @@ I am a master with research interests in Graph Neural Networks. I am now from Sc
 - Learning from Graphs with Heterophily.
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉🎉 One papers are accepted by ECML-PKDD 2024!
+- 2024.05: &nbsp;🎉🎉🎉 One papers are accepted by ECML-PKDD 2024!
 
 # 📝 Publications 
 - **[ECML-PKDD 2024]** [Self-Pro: Self-Prompt and Tuning Framework for Graph Neural Networks](https://arxiv.org/abs/2310.10362), **Gong Chenghua**, Xiang Li, Jianxiang Yu, Cheng Yao, Jiaqi Tan, Chengcheng Yu. 
@@ -34,8 +34,8 @@ I am a master with research interests in Graph Neural Networks. I am now from Sc
 - **[CBD 2021]** [Continuous K-Selection Capacity Constrained Assignment in Road-Networks](https://ieeexplore.ieee.org/document/9816226), **Gong Chenghua**, Xiaoyu Sun, Bin Zhao. 
 
 # 📖 Educations
-- *2022.06 - now*, East China Normal University
-- *2018.09 - 2022.06*, Nanjing Normal University 
+- 2022.06 - now, East China Normal University
+- 2018.09 - 2022.06, Nanjing Normal University 
 
 # 💻 Internships
-- 2024.07 - 2024.9 Linyuan Lab, USTC, Heifei, China.
+- 2024.07 - 2024.9 Linyuan Lab, USTC, Hefei, China.
