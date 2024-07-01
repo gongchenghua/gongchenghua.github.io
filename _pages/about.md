@@ -23,7 +23,8 @@ I am a master with research interests in Graph Neural Networks. I am now from Sc
 - Graph Representation Learning.
 - Self-supervised Learning on Graphs.
 - Graph Foundation Models.
-Welcome to visit my other portal websites to learn more. [ZhiHu](https://www.zhihu.com/people/coldwater-33/posts)
+  
+Welcome to visit my other portal websites [ZhiHu](https://www.zhihu.com/people/coldwater-33/posts) to learn more. 
 
 # 🔥 News
 - 2024.05: &nbsp;🎉🎉🎉 One papers are accepted by ECML-PKDD 2024!
