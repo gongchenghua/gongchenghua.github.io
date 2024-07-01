@@ -19,9 +19,11 @@ redirect_from:
 
 # 🤵🏻 About me
 I am a master with research interests in Graph Neural Networks. I am now from School of Data Science and Engineering in East China Normal University, where I am very fortunate to be advised by professor Xiang Li in PLANING LAB. Most recently, I am interested in the following topics:
-- Graph Neural Networks & Graph Representation Learning.
-- Self-supervised Learning on Graphs & Graph Foundation Models.
-- Learning from Graphs with Heterophily.
+- Graph Neural Networks.
+- Graph Representation Learning.
+- Self-supervised Learning on Graphs.
+- Graph Foundation Models.
+Welcome to visit my other portal websites to learn more. [ZhiHu](https://www.zhihu.com/people/coldwater-33/posts)
 
 # 🔥 News
 - 2024.05: &nbsp;🎉🎉🎉 One papers are accepted by ECML-PKDD 2024!
