@@ -30,11 +30,11 @@ Welcome to visit my other portal websites [ZhiHu](https://www.zhihu.com/people/c
 - 2024.05: &nbsp;🎉🎉🎉 One papers are accepted by ECML-PKDD 2024!
 
 # 📝 Publications 
-- **[ECML-PKDD 2024]** [Self-Pro: Self-Prompt and Tuning Framework for Graph Neural Networks](https://arxiv.org/abs/2310.10362), **Gong Chenghua**, Xiang Li, Jianxiang Yu, Cheng Yao, Jiaqi Tan, Chengcheng Yu. 
-- **[Under Review]** [Towards Learning from Graphs with Heterophily: Progress and Future](https://arxiv.org/abs/2401.09769), **Gong Chenghua**, Xiang Li, Yao Cheng, Xiang Li, Caihua Shan, Siqiang Luo.
+- **[ECML-PKDD 2024]** [Self-Pro: Self-Prompt and Tuning Framework for Graph Neural Networks](https://arxiv.org/abs/2310.10362), **Chenghua Gong**, Xiang Li, Jianxiang Yu, Cheng Yao, Jiaqi Tan, Chengcheng Yu. 
+- **[Under Review]** [Towards Learning from Graphs with Heterophily: Progress and Future](https://arxiv.org/abs/2401.09769), **Chenghua Gong**, Xiang Li, Yao Cheng, Xiang Li, Caihua Shan, Siqiang Luo.
 - **[Under Review]** [Empower Text-Attributed Graphs Learning with Large Language Models (LLMs)](https://arxiv.org/abs/2401.09769), Jianxiang Yu, Yuxiang Ren, **Chenghua Gong**, Jiaqi Tan, Xiang Li, Xuecang Zhang. 
 - **[Under Review]** [Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis](), Jianxiang Yu, Zichen Ding, Jiaqi Tan, Kangyang Luo, Zhenmin Weng, Chenghua Gong, Long Zeng, RenJing Cui, Chengcheng Han, Qiushi Sun, Zhiyong Wu, Yunshi Lan, Xiang Li. 
-- **[CBD 2021]** [Continuous K-Selection Capacity Constrained Assignment in Road-Networks](https://ieeexplore.ieee.org/document/9816226), **Gong Chenghua**, Xiaoyu Sun, Bin Zhao. 
+- **[CBD 2021]** [Continuous K-Selection Capacity Constrained Assignment in Road-Networks](https://ieeexplore.ieee.org/document/9816226), **Chenghua Gong**, Xiaoyu Sun, Bin Zhao. 
 
 # 📖 Educations
 - 2022.06 - now, East China Normal University
