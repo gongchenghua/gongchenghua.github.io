@@ -27,9 +27,11 @@ I am a master with research interests in Graph Neural Networks. I am now from Sc
 Welcome to visit my other portal websites [ZhiHu](https://www.zhihu.com/people/coldwater-33/posts) to learn more. 
 
 # 🔥 News
+- 2024.07: &nbsp;🎉🎉🎉 One papers are accepted by Frontiers of Computer Science(FCS)!
 - 2024.05: &nbsp;🎉🎉🎉 One papers are accepted by ECML-PKDD 2024!
 
 # 📝 Publications 
+- **[Frontiers of Computer Science]** [Agents with Foundation Models: Advance and Vision](), **Chenghua Gong**, Xiang Li. 
 - **[ECML-PKDD 2024]** [Self-Pro: Self-Prompt and Tuning Framework for Graph Neural Networks](https://arxiv.org/abs/2310.10362), **Chenghua Gong**, Xiang Li, Jianxiang Yu, Cheng Yao, Jiaqi Tan, Chengcheng Yu. 
 - **[Under Review]** [Towards Learning from Graphs with Heterophily: Progress and Future](https://arxiv.org/abs/2401.09769), **Chenghua Gong**, Xiang Li, Yao Cheng, Xiang Li, Caihua Shan, Siqiang Luo.
 - **[Under Review]** [Empower Text-Attributed Graphs Learning with Large Language Models (LLMs)](https://arxiv.org/abs/2401.09769), Jianxiang Yu, Yuxiang Ren, **Chenghua Gong**, Jiaqi Tan, Xiang Li, Xuecang Zhang. 
