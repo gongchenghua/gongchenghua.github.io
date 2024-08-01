@@ -31,7 +31,7 @@ Welcome to visit my other portal websites [ZhiHu](https://www.zhihu.com/people/c
 - 2024.05: &nbsp;🎉🎉🎉 One papers are accepted by ECML-PKDD 2024!
 
 # 📝 Publications 
-- **[Frontiers of Computer Science]** [Agents with Foundation Models: Advance and Vision](), **Chenghua Gong**, Xiang Li. 
+- **[Frontiers of Computer Science]** [Agents with Foundation Models: Advance and Vision](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-024-40311-2), **Chenghua Gong**, Xiang Li. 
 - **[ECML-PKDD 2024]** [Self-Pro: Self-Prompt and Tuning Framework for Graph Neural Networks](https://arxiv.org/abs/2310.10362), **Chenghua Gong**, Xiang Li, Jianxiang Yu, Cheng Yao, Jiaqi Tan, Chengcheng Yu. 
 - **[Under Review]** [Towards Learning from Graphs with Heterophily: Progress and Future](https://arxiv.org/abs/2401.09769), **Chenghua Gong**, Xiang Li, Yao Cheng, Xiang Li, Caihua Shan, Siqiang Luo.
 - **[Under Review]** [Empower Text-Attributed Graphs Learning with Large Language Models (LLMs)](https://arxiv.org/abs/2401.09769), Jianxiang Yu, Yuxiang Ren, **Chenghua Gong**, Jiaqi Tan, Xiang Li, Xuecang Zhang. 
