@@ -26,7 +26,7 @@ I am a master with research interests in Graph Neural Networks. I am now from Sc
 Welcome to visit my other portal websites [ZhiHu](https://www.zhihu.com/people/coldwater-33/posts) to learn more. 
 
 # 🔥 News
-- 2024.09: &nbsp;🎉🎉🎉 One papers are accepted by AAAI 2025! Congratulations to our co-authors!
+- 2024.12: &nbsp;🎉🎉🎉 One papers are accepted by AAAI 2025! Congratulations to our co-authors!
 - 2024.09: &nbsp;🎉🎉🎉 One papers are accepted by EMNLP 2024! Congratulations to our co-authors!
 - 2024.07: &nbsp;🎉🎉🎉 One papers are accepted by Frontiers of Computer Science(FCS)!
 - 2024.05: &nbsp;🎉🎉🎉 One papers are accepted by ECML-PKDD 2024!
