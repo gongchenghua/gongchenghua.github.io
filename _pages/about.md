@@ -40,6 +40,8 @@ Welcome to visit my other portal websites [ZhiHu](https://www.zhihu.com/people/c
 - **[Frontiers of Computer Science]** [Agents with Foundation Models: Advance and Vision](https://link.springer.com/article/10.1007/s11704-024-40311-2), **Chenghua Gong**, Xiang Li. 
 - **[ECML-PKDD 2024]** [Self-Pro: Self-Prompt and Tuning Framework for Graph Neural Networks](https://arxiv.org/abs/2310.10362), **Chenghua Gong**, Xiang Li, Jianxiang Yu, Cheng Yao, Jiaqi Tan, Chengcheng Yu. 
 
+# 💬 Invited Talks
+- *2021.06*
 
 # 📖 Educations
 - 2022.06 - now, East China Normal University
